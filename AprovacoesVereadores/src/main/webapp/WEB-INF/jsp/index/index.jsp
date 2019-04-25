@@ -8,6 +8,6 @@
 <link href="<c:url value="/resource/Bootstrap/css/bootstrap.css"/>" rel="stylesheet" type="text/css">
 </head>
 <body>
-	<a href = "/your.groupid/time/cadastro"><button class="btn btn-primary">Abrir Sistema</button></a>
+	<a href = "/your.groupid/partido/cadastro"><button class="btn btn-primary">Abrir Sistema</button></a>
 </body>
 </html>
